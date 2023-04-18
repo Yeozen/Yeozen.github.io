@@ -55,7 +55,7 @@ a:hover {
 }
 
 table, th, td {
-    border: 10px solid;   
+    border: 1px solid;   
     text-align: center;
     padding: 15px; 
     ;
@@ -63,6 +63,6 @@ table, th, td {
 
 table{
     width: 50%;
-    
+    height: 50%;
 }
   
